@@ -1,0 +1,1 @@
+create a multiplication table project using HTML, CSS and JS. In which user can enter any value to the input and click on the result button and the table of that value is shown below and user can also reset it by clicking reset button.
